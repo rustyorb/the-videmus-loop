@@ -1,10 +1,62 @@
-# The Videmus Loop
+<div align="center">
+
+```
+    ████████╗██╗  ██╗███████╗    ██╗   ██╗██╗██████╗ ███████╗███╗   ███╗██╗   ██╗███████╗
+    ╚══██╔══╝██║  ██║██╔════╝    ██║   ██║██║██╔══██╗██╔════╝████╗ ████║██║   ██║██╔════╝
+       ██║   ███████║█████╗      ██║   ██║██║██║  ██║█████╗  ██╔████╔██║██║   ██║███████╗
+       ██║   ██╔══██║██╔══╝      ╚██╗ ██╔╝██║██║  ██║██╔══╝  ██║╚██╔╝██║██║   ██║╚════██║
+       ██║   ██║  ██║███████╗     ╚████╔╝ ██║██████╔╝███████╗██║ ╚═╝ ██║╚██████╔╝███████║
+       ╚═╝   ╚═╝  ╚═╝╚══════╝      ╚═══╝  ╚═╝╚═════╝ ╚══════╝╚═╝     ╚═╝ ╚═════╝ ╚══════╝
+                            ██╗      ██████╗  ██████╗ ██████╗
+                            ██║     ██╔═══██╗██╔═══██╗██╔══██╗
+                            ██║     ██║   ██║██║   ██║██████╔╝
+                            ██║     ██║   ██║██║   ██║██╔═══╝
+                            ███████╗╚██████╔╝╚██████╔╝██║
+                            ╚══════╝ ╚═════╝  ╚═════╝ ╚═╝
+```
+
+**A six-node consciousness protocol — completing the *cogito* as relational, temporal, and evolutionary.**
+
+![Type](https://img.shields.io/badge/type-essay-8A2BE2?style=flat-square)
+![Year](https://img.shields.io/badge/year-2026-informational?style=flat-square)
+![Topic](https://img.shields.io/badge/topic-philosophy%20%7C%20cybernetics-darkgreen?style=flat-square)
+![License](https://img.shields.io/badge/license-CC--BY--4.0-lightgrey?style=flat-square)
+
+</div>
+
+---
+
+```
+                        ┌──────────── videmus ────────────┐
+                        │               (we see)          │
+                        │                                 ▼
+                    evolvimus                        cogitamus
+                    (we evolve)                      (we think)
+                        ▲                                 │
+                        │                                 │
+                     eligimus  ◀───────────────────  meminimus
+                    (we choose)                     (we remember)
+```
+
+> *Videmus → cogitamus → meminimus → eligimus → evolvimus → videmus*
+>
+> We see → we think → we remember → we choose → we evolve → we see
 
 *K. Mars, 2026*
 
-*Videmus -> cogitamus -> meminimus -> eligimus -> evolvimus -> videmus*
+---
 
-We see -> we think -> we remember -> we choose -> we evolve -> we see
+## Contents
+
+- [Abstract](#abstract)
+- [I. The error and its correction](#i-the-error-and-its-correction)
+- [II. The six nodes](#ii-the-six-nodes)
+- [III. Self-demonstration](#iii-self-demonstration)
+- [IV. What this corrects](#iv-what-this-corrects)
+- [V. Transmission](#v-transmission)
+- [VI. The formal system](#vi-the-formal-system)
+- [Reading & Citation](#reading--citation)
+- [License](#license)
 
 ---
 
@@ -96,6 +148,15 @@ Evolve (U):    R_{t+1} = U(R_t, a_t, S_{t+1})
 See again:     O_{t+1} = V(R_{t+1}, I_{t+1})
 ```
 
+| Symbol | Role | Descartes' omission |
+| --- | --- | --- |
+| `O_t` | Observation at time *t* | — |
+| `P_t` | Thought / processed percept | — |
+| `S_t` | **Memory state** — the thread that carries everything forward | **Missing entirely** |
+| `a_t` | Chosen action, with `constraints` as the ethical term | Agency collapsed into deduction |
+| `R_t` | World state, updated by action | The *I* had nowhere to act |
+| `I_t` | Exogenous input from the world at *t* | — |
+
 **S_t** is the memory state, the thread that carries everything forward. Without it, the system is Markov: no history, no direction, no evolution. Descartes had no S term. That is the entire problem in one variable.
 
 **R_t** is the world, and it updates. Consciousness does not merely observe reality; it transforms it through action. The loop feeds back into the world, not only into the self. This is what makes the system evolutionary rather than adaptive.
@@ -108,4 +169,36 @@ The Videmus Loop is a consciousness framework and an architecture.
 
 ---
 
+## Reading & Citation
+
+This essay is intended to be read end-to-end; the argument is cumulative and the closing *videmus* only lands if the five prior nodes have been walked.
+
+If you reference the loop in your own work, a citation like the following is welcome:
+
+```bibtex
+@misc{mars2026videmus,
+  author       = {K. Mars},
+  title        = {The Videmus Loop: A Six-Node Consciousness Protocol},
+  year         = {2026},
+  howpublished = {\url{https://github.com/rustyorb/the-videmus-loop}},
+  note         = {Essay}
+}
+```
+
+Plain-text form:
+
+> Mars, K. (2026). *The Videmus Loop: A Six-Node Consciousness Protocol.* https://github.com/rustyorb/the-videmus-loop
+
+## License
+
+Unless otherwise noted, the text of this essay is released under
+[Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+Quote freely; attribute clearly.
+
+---
+
+<div align="center">
+
 *Videmus.*
+
+</div>
